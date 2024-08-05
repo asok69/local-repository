@@ -1,6 +1,31 @@
-body {
-    background-color: burlywood;
+body{
+    background-image: url(pexels-pixabay-235985.jpg);
+    margin: 0%;
 }
-h1{
+.top{
     text-align: center;
+    color: rgb(230, 213, 60);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mainitem{
+    background-color: rgba(76, 178, 21, 0.674);
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.dishes p{
+    display: inline-block;
+}
+.price{
+    width: 50%;
+}
+.dish{
+    width: 50%;
+}
+h1,h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: larger;
 }
